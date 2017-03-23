@@ -1,5 +1,5 @@
 {
-  "name": "grade-calculators",
+  "name": "react-lunch-picker",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
@@ -23,5 +23,5 @@
     "eject": "react-scripts eject",
     "deploy" : "npm run build&&gh-pages -d build"
   },
-  "homepage": "https://github.com/syson16/react-lunch-picker"
+  "homepage": "https://syson16.github.io/react-lunch-picker"
 }
